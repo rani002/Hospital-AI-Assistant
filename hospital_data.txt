@@ -1,0 +1,32 @@
+Hospital Name: ABC Hospital
+
+Hospital Timings:
+Monday - Saturday: 9:00 AM to 8:00 PM
+Sunday: Emergency Only
+
+Departments:
+- General Medicine
+- Cardiology
+- Orthopedics
+- Pediatrics
+- Gynecology
+
+Doctors:
+- Dr. Ravi (Cardiologist)
+- Dr. Priya (Pediatrician)
+- Dr. Kumar (Orthopedic)
+
+Consultation Fee:
+General Doctor: ₹300
+Specialist: ₹500
+
+Emergency:
+24/7 Available
+
+Appointment:
+Call: 9876543210
+
+Address:
+ABC Hospital,
+Kakinada,
+Andhra Pradesh.
